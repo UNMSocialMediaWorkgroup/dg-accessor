@@ -1,2 +1,2 @@
 # dg-accessor
-DataGather access library in Scala. Works with anything that can import jars.
+DataGather access library in Java. Works with anything that can import jars.
