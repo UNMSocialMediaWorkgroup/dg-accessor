@@ -6,19 +6,19 @@ package edu.unm.carc.socialmedia.dg_accessor;
  */
 public class Record {
 
-    final String owner;
-    final long time;
-    final double longitude;
-    final double latitude;
-    final double altitude;
-    final double xAccel;
-    final double yAccel;
-    final double zAccel;
-    final double xRot;
-    final double yRot;
-    final double zRot;
-    final double light;
-    final double pressure;
+    public final String owner;
+    public final long time;
+    public final double longitude;
+    public final double latitude;
+    public final double altitude;
+    public final double xAccel;
+    public final double yAccel;
+    public final double zAccel;
+    public final double xRot;
+    public final double yRot;
+    public final double zRot;
+    public final double light;
+    public final double pressure;
 
     public Record(String owner, long time, double longitude, double latitude,
                   double altitude, double xAccel, double yAccel, double zAccel,
